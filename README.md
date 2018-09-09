@@ -55,7 +55,7 @@ This example is based on [React TodoMVC](https://github.com/tastejs/todomvc/tree
 
 - Initializing OrbitDB and IPFS happens in [store](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/utils/store.js)
 - OrbitDB calls happen in [model](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/utils/todoModel.js)
-- The database and app are hooked together in [app](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/index.js#L23)
+- The database and app are hooked together in [index](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/index.js#L23)
 
 ## Contribute
 
