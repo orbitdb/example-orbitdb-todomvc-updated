@@ -11,7 +11,7 @@ TodoMVC application using [OrbitDB](https://github.com/orbitdb/orbit-db) as a da
 **[LIVE DEMO](https://ipfs.io/ipfs/QmTJGHccriUtq3qf3bvAQUcDUHnBbHNJG2x2FYwYUecN43/)**
 
 <p align="centers">
-  <img src="https://raw.githubusercontent.com/haadcode/example-orbitdb-todomvc/master/screenshots/Screen%20Shot%202017-11-29%20at%2017.09.31.png" width="50%">
+  <img src="https://raw.githubusercontent.com/natachadelarosa/example-orbitdb-todomvc-updated/master/screenshots/Screen%20Shot%202018-09-09%20at%2011.10.20.png" width="50%">
 </p>
 
 ## Install
@@ -53,9 +53,9 @@ To collaborate on a TODO list, open the same url in _another browser or incognit
 
 This example is based on [React TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/react).
 
-- Initializing OrbitDB and IPFS happens in [store](https://github.com/haadcode/example-orbitdb-todomvc/blob/master/src/utils/store.js)
-- OrbitDB calls happen in [model](https://github.com/haadcode/example-orbitdb-todomvc/blob/master/src/utils/todoModel.js)
-- The database and app are hooked together in [app](https://github.com/haadcode/example-orbitdb-todomvc/blob/master/src/index.js#L23)
+- Initializing OrbitDB and IPFS happens in [store](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/utils/store.js)
+- OrbitDB calls happen in [model](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/utils/todoModel.js)
+- The database and app are hooked together in [app](https://github.com/natachadelarosa/example-orbitdb-todomvc-updated/blob/master/src/index.js#L23)
 
 ## Contribute
 
