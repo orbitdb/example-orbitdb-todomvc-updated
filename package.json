@@ -1,0 +1,21 @@
+{
+  "name": "todomvc-orbitdb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "ipfs": "^0.28.0",
+    "orbit-db": "^0.19.8",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.0.11",
+    "todomvc-app-css": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
