@@ -60,3 +60,11 @@ This example is based on [React TodoMVC](https://github.com/tastejs/todomvc/tree
 ## Contribute
 
 We'd be happy have contributions! If you find any issues, have suggestions for new features or would like to improve the project, please open an issue.
+
+You can reach us [on Gitter](https://gitter.im/orbitdb/Lobby), or in the [issues section](https://github.com/orbitdb/example-orbitdb-todomvc-updated/issues).
+
+For specific guidelines for contributing to this repository, check out the [Contributing guide](CONTRIBUTING.md). For more on contributing to OrbitDB in general, take a look at the [@OrbitDB welcome repository](https://github.com/orbitdb/welcome). Please note that all interactions in @orbitdb fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+Copyright (c) 2018-2019 Natacha De la Rosa
